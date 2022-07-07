@@ -1,0 +1,20 @@
+
+.background
+{
+    background-color: #F0F0F0;
+}
+.h1{
+    font-family: Lucida Sans Unicode;
+    text-align: center;
+    font-size: 22pt;
+    text-decoration: underline;
+    color:  #A4A400;
+}
+.h2{
+    font-family: Helvetica;
+    text-decoration: underline;
+    color:  #A4A400;
+}
+.p{
+    font-family: Arial;
+}
